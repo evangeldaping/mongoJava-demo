@@ -1,6 +1,7 @@
 # mongoJava-demo
 
 Java MongoDB : Insert Document(s) in Collection Examples
+
 https://howtodoinjava.com/mongodb/java-mongodb-insert-documents-in-collection-examples/
 
 IDE: Java Intellij IDEA 2019 x64
